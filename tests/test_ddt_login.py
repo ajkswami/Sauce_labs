@@ -13,6 +13,8 @@ from configuration import testdata
 
 from datetime import datetime
 
+# Used Data driven frame work via pandas
+
 class TestDDT(Loginpage):
 
     def setUp(self):
