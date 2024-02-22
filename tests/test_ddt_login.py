@@ -68,7 +68,7 @@ class TestDDT(Loginpage):
                 successful_login = True
 
             self.refresh_page()
-            time.sleep(2)
+            time.sleep(4)
 
 
         # Write updated DataFrame back to Excel file

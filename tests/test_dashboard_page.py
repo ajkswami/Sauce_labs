@@ -10,8 +10,6 @@ class Test_Dashboard(Configtest,BaseCase):
 
 
 
-
-
     def test_get_sorted_lst(self):
         # Use the login method from the base class
         self.test_get_login()
